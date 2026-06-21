@@ -1,4 +1,35 @@
-## Hi there 👋
+![Banner](https://github.com/xVemu/xVemu/blob/master/banner.png?raw=true)
+
+Flutter developer and cybersecurity student from Poland with a passion for creating mobile applications.
+My coding journey is fueled by a love for Android and a fascination with how things work.
+Currently, diving deep into Kotlin Multiplatform and always looking for new challenges.
+
+### Find me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-006495?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkras/)
+[![Google Play](https://img.shields.io/badge/Google_Play-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Kamil+Kras)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12021861/vemu)
+[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/m/vemu.10110753/)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Special:Contributions/XVemu)
+
+### Programming skills:
+![Compose multiplatform](https://img.shields.io/badge/Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-5e4bbf.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-56d5ff?style=for-the-badge&logo=flutter&logoColor=003544)
+![Dart](https://img.shields.io/badge/Dart-80cfff?style=for-the-badge&logo=dart&logoColor=00344b)
+![Java](https://img.shields.io/badge/Java-ffb4ac?style=for-the-badge&logo=openjdk&logoColor=690007)
+![JavaScript](https://img.shields.io/badge/javascript-dec800.svg?style=for-the-badge&logo=javascript&logoColor=373100)
+
+### Other skills:
+![Android](https://img.shields.io/badge/Android-5dffa1?style=for-the-badge&logo=android&logoColor=00210e)
+![Docker](https://img.shields.io/badge/docker-0091e2.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffb786.svg?style=for-the-badge&logo=firebase&logoColor=502400)
+![Git](https://img.shields.io/badge/GIT-b52606?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</br>
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-f9bd20?style=for-the-badge&logo=linux&logoColor=402d00)
+![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+![RouterOS](https://img.shields.io/badge/routeros-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+
 
 <!--
 **TkcChaet/TkcChaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
